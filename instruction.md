@@ -1,4 +1,4 @@
-TDM-GCC
+###TDM-GCC
 
 tdm64-gcc-5.1.0-2.exe
 
@@ -9,7 +9,7 @@ https://sourceforge.net/projects/tdm-gcc/?source=navbar
 https://sourceforge.net/projects/tdm-gcc/files/latest/download?source=navbar
 
 
-Code::Blocks
+###Code::Blocks
 
 codeblocks-16.01-setup.exe
 
@@ -19,7 +19,7 @@ https://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codeblo
 
 
 
-wxWidgets
+###wxWidgets
 
 wxWidgets-3.0.2.7z
 
@@ -27,13 +27,13 @@ https://www.wxwidgets.org/downloads/
 
 https://github.com/wxWidgets/wxWidgets/releases/download/v3.0.2/wxWidgets-3.0.2.7z
 
-
+---
 
 Install TDM-GCC
 
 custom: addidtional tick on checkbox: gdb32 (Stable Release:7.9.1-tdm-1)
 
-
+---
 
 Unzip wxWidgets
 
